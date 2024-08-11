@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-11
 type: landing
 
 design:
@@ -35,12 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
+        I am an Associate Professor in Computer Science. I am
+		interested in bioinformatics, ontologies, neuro-symbolic AI, and
+		knowledge representation.
+	design:
       columns: '1'
   - block: collection
     id: papers
